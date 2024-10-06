@@ -65,7 +65,7 @@ def scrape_books():
         category_data.append((category, book_count, average_price))
         
 #Créer une DataFrame à partir des résultats
-    df = pd.DataFrame(category_data, columns=['Category', 'Number of Books', 'Average Price'])
+    df = pd.DataFrame(category_data, columns=['Categorie', 'Numbre de livres', 'Prix moyen'])
 
   # Afficher la DataFrame
     print(df)
