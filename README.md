@@ -54,6 +54,4 @@ Question 9 :
 
 Temps estimé pour scraper le contenu du site Quotes to Scrape - Random : https://quotes.toscrape.com/random
 
-Je dirai plus ou moins 30 minutes.
-
 
